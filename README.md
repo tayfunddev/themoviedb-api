@@ -63,4 +63,8 @@ keys :
   ]
 }
 
+projeye destek olmak için bana bir kahve ısmarlayabilirsin ☕️
+
+https://buymeacoffee.com/tayfundev
+
 iyi kodlamalar </>
